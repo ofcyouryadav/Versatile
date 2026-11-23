@@ -1,11 +1,12 @@
-<img src="pfp.png" alt="Versatile" width="250" height="250">
+<div align="center">
 
-<p align="center">
-  <h1 align="center">Versatile</h1>
-  <p align="center">
-    An open-source Discord bot for esports tournament management — scrims, slots, points tables, tickets, and more.
-  </p>
-</p>
+  <img src="pfp.png" alt="Versatile" width="300">
+
+  <h1>Versatile</h1>
+
+  <p>An open-source Discord bot for esports tournament management — scrims, slots, points tables, tickets, and more.</p>
+
+</div>
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
@@ -77,7 +78,7 @@ Originally developed and open-sourced by **Versatilex** ([Ashish](https://github
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/ashish200729/vxbot.git
+git clone https://github.com/ofcyouryadav/Versatile
 cd vxbot
 
 python -m venv venv
@@ -85,8 +86,6 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 ```
-
-> If you are using Yadav's republished copy, replace the clone URL above with that repository's URL.
 
 ### 2. Configure environment
 
